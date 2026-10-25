@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "com.atlasproontv.atlasproontvbox",
+  "versionCode": 108,
+  "versionName": "4.0.8-tv-update",
+  "url": "https://github.com/RKople/ontv-kople-test/releases/download/v0.2.0-beta8/ATLASPRO-ONTV-4.0.8-tv-update.apk",
+  "sha256": "e3d4624af1aad199ab2d562b10982371ef28ec6b8ed2bd97c8dc38fd42003b41",
+  "size": 119745251,
+  "notes": "Mise à jour depuis la TV : recherche de version, téléchargement et installation confirmée par Android.\nAccès depuis Autres ou Téléchargements → Gérer.\nCompte, réglages et téléchargements conservés.\nCorrectif du blocage au démarrage du SSD inclus."
+}
